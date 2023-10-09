@@ -11,14 +11,14 @@
 
 - 📫 How to reach me **On twitter Or LinkedIn**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/promise-emmanuel-76300b230](https://www.linkedin.com/in/promise-emmanuel-76300b230)
+- 📄 Know about my experiences [https://www.linkedin.com/in/promisegamefi/](https://www.linkedin.com/in/promisegamefi/)
 
 - ⚡ Fun fact **I love to Play Games and Explore endless possibilities with blockchain technology and Artificial Intelligence**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0xpromisecsharp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xpromisecsharp" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/promise-emmanuel-76300b230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/promise-emmanuel-76300b230" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/promisegamefi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/promisegamefi/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@promisecsharp6250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@promisecsharp6250" height="30" width="40" /></a>
 </p>
 
